@@ -1,5 +1,5 @@
 # Vulnerable Application for Training Purposes
-
+test
 This project contains intentionally vulnerable applications across various technology stacks. It is designed for security training and testing purposes. **All secrets and passwords are safe to be leaked** as part of this educational exercise.
 
 ## Project Overview
